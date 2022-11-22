@@ -1,1 +1,1 @@
-# my-firts-jupiper notebooks through Coursera course: Tools for Data Science
+# my firts jupyper notebooks through Coursera course: Tools for Data Science
